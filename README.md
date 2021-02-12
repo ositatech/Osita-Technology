@@ -1,2 +1,2 @@
-# ampache
-ostia radio project
+# Osita Technology
+osita radio project
